@@ -1,0 +1,1748 @@
+ [
+    {
+    "id": 6,
+    "created_at": 1715462714,
+    "modified_at": 1715462714,
+    "ts": 1715462714,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462714203_9c683a68da384d698bc9935b4d99baa1_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462714203_9c683a68da384d698bc9935b4d99baa1_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 7,
+    "created_at": 1715462714,
+    "modified_at": 1715462714,
+    "ts": 1715462714,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462714236_357bc390ef4541a1b913c04917133ee3_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462714236_357bc390ef4541a1b913c04917133ee3_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 8,
+    "created_at": 1715462881,
+    "modified_at": 1715462881,
+    "ts": 1715462881,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462881513_91134b807d9d44dc9497106f3f3c6309_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462881513_91134b807d9d44dc9497106f3f3c6309_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 9,
+    "created_at": 1715462881,
+    "modified_at": 1715462881,
+    "ts": 1715462881,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462881574_b0745e3c1bc4401e8deca91ad0db264f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462881574_b0745e3c1bc4401e8deca91ad0db264f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 10,
+    "created_at": 1715462886,
+    "modified_at": 1715462886,
+    "ts": 1715462886,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462886407_eb9deb5237bb43bbb028fdb142b48ced_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462886407_eb9deb5237bb43bbb028fdb142b48ced_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 11,
+    "created_at": 1715462886,
+    "modified_at": 1715462886,
+    "ts": 1715462886,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462886439_e097502a496a4b84bdd6a484984ba32e_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462886439_e097502a496a4b84bdd6a484984ba32e_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 12,
+    "created_at": 1715462953,
+    "modified_at": 1715462953,
+    "ts": 1715462953,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462953591_7f256747765141208fe08e34ad35b58f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462953591_7f256747765141208fe08e34ad35b58f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 13,
+    "created_at": 1715462953,
+    "modified_at": 1715462953,
+    "ts": 1715462953,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462953661_70c7680a17b0496da5dac4e72088f556_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462953661_70c7680a17b0496da5dac4e72088f556_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 14,
+    "created_at": 1715462959,
+    "modified_at": 1715462959,
+    "ts": 1715462959,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462959565_20226dc25f8a44db9a955ea2d44b2ea2_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462959565_20226dc25f8a44db9a955ea2d44b2ea2_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 15,
+    "created_at": 1715462959,
+    "modified_at": 1715462959,
+    "ts": 1715462959,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715462959647_7955a2daa767490eb5fe06aaa034e223_analyzed_road_frame.webp",
+    "full_frame_filename": "1715462959647_7955a2daa767490eb5fe06aaa034e223_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 16,
+    "created_at": 1715463050,
+    "modified_at": 1715463050,
+    "ts": 1715463050,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463050129_337497cb679c45b0bfd4b4d531635b60_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463050129_337497cb679c45b0bfd4b4d531635b60_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 17,
+    "created_at": 1715463050,
+    "modified_at": 1715463050,
+    "ts": 1715463050,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463050148_f9fc1ce94956404dbe244941f9874628_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463050148_f9fc1ce94956404dbe244941f9874628_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 18,
+    "created_at": 1715463050,
+    "modified_at": 1715463050,
+    "ts": 1715463050,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463050494_eaca53b1ef2a41a78c0cfec368d5b07c_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463050494_eaca53b1ef2a41a78c0cfec368d5b07c_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 19,
+    "created_at": 1715463050,
+    "modified_at": 1715463050,
+    "ts": 1715463050,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463050513_bc8e6e1a186c45bf9e500cf036f71d58_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463050513_bc8e6e1a186c45bf9e500cf036f71d58_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 20,
+    "created_at": 1715463294,
+    "modified_at": 1715463294,
+    "ts": 1715463294,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463294509_bda20ebe2be941a39286d2d2ea0aa070_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463294509_bda20ebe2be941a39286d2d2ea0aa070_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 21,
+    "created_at": 1715463294,
+    "modified_at": 1715463294,
+    "ts": 1715463294,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463294556_c5cd2edff52b4e5999d551d7d2477ed8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463294556_c5cd2edff52b4e5999d551d7d2477ed8_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 22,
+    "created_at": 1715463295,
+    "modified_at": 1715463295,
+    "ts": 1715463295,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463295366_98df5d9c1fda4656a5bb1978e36d2353_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463295366_98df5d9c1fda4656a5bb1978e36d2353_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 23,
+    "created_at": 1715463295,
+    "modified_at": 1715463295,
+    "ts": 1715463295,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463295441_ab6bb4c2530b42caa41f62ae97c71eb7_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463295441_ab6bb4c2530b42caa41f62ae97c71eb7_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 24,
+    "created_at": 1715463296,
+    "modified_at": 1715463296,
+    "ts": 1715463295,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463295888_235d5c731a8141c68f807de5c1c51fd8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463295888_235d5c731a8141c68f807de5c1c51fd8_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 25,
+    "created_at": 1715463296,
+    "modified_at": 1715463296,
+    "ts": 1715463295,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463295971_85ad2a6bb83e4db0b9c7c52d4834778e_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463295971_85ad2a6bb83e4db0b9c7c52d4834778e_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 26,
+    "created_at": 1715463298,
+    "modified_at": 1715463298,
+    "ts": 1715463298,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463298307_5cece111156245eca3926c2432a15a61_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463298307_5cece111156245eca3926c2432a15a61_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 27,
+    "created_at": 1715463298,
+    "modified_at": 1715463298,
+    "ts": 1715463298,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463298320_15d19f25fda0435dafca538d3aef67e2_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463298320_15d19f25fda0435dafca538d3aef67e2_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 28,
+    "created_at": 1715463298,
+    "modified_at": 1715463298,
+    "ts": 1715463298,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463298796_9f5f7d66ac504664be6fcda919f40c54_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463298796_9f5f7d66ac504664be6fcda919f40c54_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 29,
+    "created_at": 1715463298,
+    "modified_at": 1715463298,
+    "ts": 1715463298,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463298819_beb51b741e0d49dea46d7519d2bebde1_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463298819_beb51b741e0d49dea46d7519d2bebde1_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 30,
+    "created_at": 1715463303,
+    "modified_at": 1715463303,
+    "ts": 1715463303,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463303517_5cc9a07d5f8447009c5e7f0887e98c3c_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463303517_5cc9a07d5f8447009c5e7f0887e98c3c_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 31,
+    "created_at": 1715463303,
+    "modified_at": 1715463303,
+    "ts": 1715463303,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463303524_c718726b06614b47938b1e58e2a31d18_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463303524_c718726b06614b47938b1e58e2a31d18_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 32,
+    "created_at": 1715463304,
+    "modified_at": 1715463304,
+    "ts": 1715463304,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463304418_cfd918944a1c41e9bdb3fcff2ef349d1_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463304418_cfd918944a1c41e9bdb3fcff2ef349d1_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 33,
+    "created_at": 1715463304,
+    "modified_at": 1715463304,
+    "ts": 1715463304,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463304466_d154c70f7a024ed4a04954bf5258d450_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463304466_d154c70f7a024ed4a04954bf5258d450_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 34,
+    "created_at": 1715463309,
+    "modified_at": 1715463309,
+    "ts": 1715463309,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463309193_65c33cb0c9b54147b97ae306eebe36cb_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463309193_65c33cb0c9b54147b97ae306eebe36cb_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 35,
+    "created_at": 1715463309,
+    "modified_at": 1715463309,
+    "ts": 1715463309,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463309231_2bd3f4e557404d41ba775f3bb7d1e52f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463309231_2bd3f4e557404d41ba775f3bb7d1e52f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 36,
+    "created_at": 1715463314,
+    "modified_at": 1715463314,
+    "ts": 1715463313,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463313922_113d74aead0044f1a910077ddead6aa7_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463313922_113d74aead0044f1a910077ddead6aa7_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 37,
+    "created_at": 1715463314,
+    "modified_at": 1715463314,
+    "ts": 1715463313,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463313949_0fc223b18cc94c2f95c6df3e369b8c15_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463313949_0fc223b18cc94c2f95c6df3e369b8c15_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 38,
+    "created_at": 1715463641,
+    "modified_at": 1715463641,
+    "ts": 1715463640,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463640986_fc7c733c6be34d0d8e861e7daf947dcd_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463640986_fc7c733c6be34d0d8e861e7daf947dcd_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 39,
+    "created_at": 1715463642,
+    "modified_at": 1715463642,
+    "ts": 1715463642,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463642087_50bf3999d3a44fe18260fdc1fd5f0197_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463642087_50bf3999d3a44fe18260fdc1fd5f0197_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 40,
+    "created_at": 1715463719,
+    "modified_at": 1715463719,
+    "ts": 1715463719,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463719072_66029b3f8fee4c2bb0081132c3cc3533_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463719072_66029b3f8fee4c2bb0081132c3cc3533_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 41,
+    "created_at": 1715463722,
+    "modified_at": 1715463722,
+    "ts": 1715463722,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463722177_d3ac4fb6916147df94e9a3dee178b9d5_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463722177_d3ac4fb6916147df94e9a3dee178b9d5_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 42,
+    "created_at": 1715463884,
+    "modified_at": 1715463884,
+    "ts": 1715463884,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463884559_524f69b26d494d0688cf9b268e1483a5_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463884559_524f69b26d494d0688cf9b268e1483a5_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 43,
+    "created_at": 1715463885,
+    "modified_at": 1715463885,
+    "ts": 1715463884,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463884980_07d5fc89601a4bd8ac53da5e0997c05b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463884980_07d5fc89601a4bd8ac53da5e0997c05b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 44,
+    "created_at": 1715463885,
+    "modified_at": 1715463885,
+    "ts": 1715463885,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463885509_e876059e826b432dae857f127fdd69d5_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463885509_e876059e826b432dae857f127fdd69d5_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 45,
+    "created_at": 1715463886,
+    "modified_at": 1715463886,
+    "ts": 1715463885,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463885941_76a4601002b744c59cd7dd1501bf0a14_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463885941_76a4601002b744c59cd7dd1501bf0a14_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 46,
+    "created_at": 1715463894,
+    "modified_at": 1715463894,
+    "ts": 1715463894,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463894839_cf59cdbf8e4747c18ac9a76b768ff258_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463894839_cf59cdbf8e4747c18ac9a76b768ff258_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 47,
+    "created_at": 1715463895,
+    "modified_at": 1715463895,
+    "ts": 1715463895,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463895311_8cdc3007ca1142dd896391cb12aabe85_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463895311_8cdc3007ca1142dd896391cb12aabe85_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 48,
+    "created_at": 1715463895,
+    "modified_at": 1715463895,
+    "ts": 1715463895,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463895571_e7f0aa5958c148a894f7ce1135341841_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463895571_e7f0aa5958c148a894f7ce1135341841_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 49,
+    "created_at": 1715463896,
+    "modified_at": 1715463896,
+    "ts": 1715463896,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463896078_371380aad3fe4fd596af41a3162fbf71_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463896078_371380aad3fe4fd596af41a3162fbf71_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 50,
+    "created_at": 1715463975,
+    "modified_at": 1715463975,
+    "ts": 1715463975,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463975481_0349bc4090af46a9837c25953e292ae9_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463975481_0349bc4090af46a9837c25953e292ae9_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 51,
+    "created_at": 1715463976,
+    "modified_at": 1715463976,
+    "ts": 1715463975,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463975983_c0cdfc00e7a84923adde70637dfffba2_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463975983_c0cdfc00e7a84923adde70637dfffba2_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 52,
+    "created_at": 1715463983,
+    "modified_at": 1715463983,
+    "ts": 1715463983,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463983386_bf7f81741fc2409283d14afdb7f532da_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463983386_bf7f81741fc2409283d14afdb7f532da_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 53,
+    "created_at": 1715463986,
+    "modified_at": 1715463986,
+    "ts": 1715463985,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715463985955_a90b47e5062c41948762e17ea883e9bf_analyzed_road_frame.webp",
+    "full_frame_filename": "1715463985955_a90b47e5062c41948762e17ea883e9bf_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 54,
+    "created_at": 1715464055,
+    "modified_at": 1715464055,
+    "ts": 1715464055,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464055631_3b3b48b05b1640ba9c76c9b5ebabb0e4_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464055631_3b3b48b05b1640ba9c76c9b5ebabb0e4_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 55,
+    "created_at": 1715464056,
+    "modified_at": 1715464056,
+    "ts": 1715464056,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464056425_204b5f9f0e444344bfe05f3899cb3df4_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464056425_204b5f9f0e444344bfe05f3899cb3df4_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 56,
+    "created_at": 1715464151,
+    "modified_at": 1715464151,
+    "ts": 1715464151,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464151205_d166badeb1614744b877a429de4e0912_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464151205_d166badeb1614744b877a429de4e0912_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 57,
+    "created_at": 1715464151,
+    "modified_at": 1715464151,
+    "ts": 1715464151,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464151773_0cb71d5bcdda4f9cbe00180503c568ab_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464151773_0cb71d5bcdda4f9cbe00180503c568ab_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 58,
+    "created_at": 1715464154,
+    "modified_at": 1715464154,
+    "ts": 1715464154,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464154552_44ec8be1a4c04fae89077f3caf2f564a_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464154552_44ec8be1a4c04fae89077f3caf2f564a_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 59,
+    "created_at": 1715464155,
+    "modified_at": 1715464155,
+    "ts": 1715464154,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464154895_a4d3555ab1244dc782922366c8778408_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464154895_a4d3555ab1244dc782922366c8778408_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 60,
+    "created_at": 1715464155,
+    "modified_at": 1715464155,
+    "ts": 1715464154,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464154996_a410c9272ca8469f96f5d95bfde5a922_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464154996_a410c9272ca8469f96f5d95bfde5a922_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 61,
+    "created_at": 1715464155,
+    "modified_at": 1715464155,
+    "ts": 1715464155,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464155337_ab7e1dec2b00454a801339b6b4865e95_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464155337_ab7e1dec2b00454a801339b6b4865e95_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 62,
+    "created_at": 1715464156,
+    "modified_at": 1715464156,
+    "ts": 1715464155,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464155935_08aa63ba1d194ae0a58495a98d7a1e06_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464155935_08aa63ba1d194ae0a58495a98d7a1e06_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 63,
+    "created_at": 1715464156,
+    "modified_at": 1715464156,
+    "ts": 1715464156,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464156238_8d075bef750b4ca0a05d1c0671b411cd_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464156238_8d075bef750b4ca0a05d1c0671b411cd_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 64,
+    "created_at": 1715464476,
+    "modified_at": 1715464476,
+    "ts": 1715464476,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464476339_b7fb26d133d64fcba52a525bf3316701_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464476339_b7fb26d133d64fcba52a525bf3316701_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 65,
+    "created_at": 1715464477,
+    "modified_at": 1715464477,
+    "ts": 1715464476,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464476900_4eeb2344a47e4be4ab5f69612131a313_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464476900_4eeb2344a47e4be4ab5f69612131a313_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 66,
+    "created_at": 1715464479,
+    "modified_at": 1715464479,
+    "ts": 1715464479,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464479412_368253ca6bf14709a7d5aa7d3391b107_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464479412_368253ca6bf14709a7d5aa7d3391b107_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 67,
+    "created_at": 1715464479,
+    "modified_at": 1715464479,
+    "ts": 1715464479,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464479826_92993ef6d885447db74af50ec939b941_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464479826_92993ef6d885447db74af50ec939b941_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 68,
+    "created_at": 1715464480,
+    "modified_at": 1715464480,
+    "ts": 1715464480,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464480091_41329b7d47bd4d25824f51a722b3e82e_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464480091_41329b7d47bd4d25824f51a722b3e82e_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 69,
+    "created_at": 1715464480,
+    "modified_at": 1715464480,
+    "ts": 1715464480,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464480490_6794c87e39344e94a03fbb232a04f39a_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464480490_6794c87e39344e94a03fbb232a04f39a_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 70,
+    "created_at": 1715464480,
+    "modified_at": 1715464480,
+    "ts": 1715464480,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464480518_53c8f9a9ed444ff29941529b51b41ad1_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464480518_53c8f9a9ed444ff29941529b51b41ad1_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 71,
+    "created_at": 1715464481,
+    "modified_at": 1715464481,
+    "ts": 1715464481,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464481174_cd11eace9bd7438ab463c9fb50029aed_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464481174_cd11eace9bd7438ab463c9fb50029aed_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 72,
+    "created_at": 1715464485,
+    "modified_at": 1715464485,
+    "ts": 1715464485,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464485774_7a10fa7d9a364ad9b2f310bd72d5ede0_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464485774_7a10fa7d9a364ad9b2f310bd72d5ede0_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 73,
+    "created_at": 1715464486,
+    "modified_at": 1715464486,
+    "ts": 1715464485,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464485957_20b73ba6f1dc434ca9e58b8cf248d9ce_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464485957_20b73ba6f1dc434ca9e58b8cf248d9ce_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 74,
+    "created_at": 1715464487,
+    "modified_at": 1715464487,
+    "ts": 1715464486,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464486989_d8e6068da6524586a9ad28bb0c61d676_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464486989_d8e6068da6524586a9ad28bb0c61d676_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 75,
+    "created_at": 1715464487,
+    "modified_at": 1715464487,
+    "ts": 1715464487,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464487163_5066af22422f49c0b2af0c599eddcf2d_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464487163_5066af22422f49c0b2af0c599eddcf2d_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 76,
+    "created_at": 1715464489,
+    "modified_at": 1715464489,
+    "ts": 1715464489,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464489636_b93564197d7d4624ba168e7ebef87dff_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464489636_b93564197d7d4624ba168e7ebef87dff_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 77,
+    "created_at": 1715464490,
+    "modified_at": 1715464490,
+    "ts": 1715464490,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464490134_b8cc10d5bfb144fd9664c68bc1b1684b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464490134_b8cc10d5bfb144fd9664c68bc1b1684b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 78,
+    "created_at": 1715464490,
+    "modified_at": 1715464490,
+    "ts": 1715464490,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464490260_7aac304d77e8406bbcc8aac59060c305_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464490260_7aac304d77e8406bbcc8aac59060c305_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 79,
+    "created_at": 1715464490,
+    "modified_at": 1715464490,
+    "ts": 1715464490,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464490556_25047ace9fae42daa81ecab4890d6406_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464490556_25047ace9fae42daa81ecab4890d6406_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 80,
+    "created_at": 1715464490,
+    "modified_at": 1715464490,
+    "ts": 1715464490,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464490726_f072e565efdb4ba785024a7beb4f552a_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464490726_f072e565efdb4ba785024a7beb4f552a_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 81,
+    "created_at": 1715464491,
+    "modified_at": 1715464491,
+    "ts": 1715464491,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464491145_17dc5d8ace254444bc555fe1f9324bb6_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464491145_17dc5d8ace254444bc555fe1f9324bb6_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 82,
+    "created_at": 1715464491,
+    "modified_at": 1715464491,
+    "ts": 1715464491,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464491311_39083036d2754769aec6fe1b1b9cf4d1_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464491311_39083036d2754769aec6fe1b1b9cf4d1_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 83,
+    "created_at": 1715464492,
+    "modified_at": 1715464492,
+    "ts": 1715464491,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464491899_4e38e8a952734bcc9b4e7bf985bbd627_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464491899_4e38e8a952734bcc9b4e7bf985bbd627_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 84,
+    "created_at": 1715464572,
+    "modified_at": 1715464572,
+    "ts": 1715464571,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464571942_1709db6a42ae4dd19ed3feb45bbccb43_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464571942_1709db6a42ae4dd19ed3feb45bbccb43_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 85,
+    "created_at": 1715464572,
+    "modified_at": 1715464572,
+    "ts": 1715464572,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464572191_1dd207d374d542d4aec16468aaff3829_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464572191_1dd207d374d542d4aec16468aaff3829_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 86,
+    "created_at": 1715464816,
+    "modified_at": 1715464816,
+    "ts": 1715464816,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464816082_d856b872983449859137492e8cd6b13a_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464816082_d856b872983449859137492e8cd6b13a_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 87,
+    "created_at": 1715464816,
+    "modified_at": 1715464816,
+    "ts": 1715464816,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464816580_038a291bf22f44859d46307ec8e4442f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464816580_038a291bf22f44859d46307ec8e4442f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 88,
+    "created_at": 1715464820,
+    "modified_at": 1715464820,
+    "ts": 1715464820,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464820261_0754487c99e2461c84808d7d34a5167f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464820261_0754487c99e2461c84808d7d34a5167f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 89,
+    "created_at": 1715464820,
+    "modified_at": 1715464820,
+    "ts": 1715464820,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464820581_8fc7b946a7f84a7db2f2dc46b778b3e2_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464820581_8fc7b946a7f84a7db2f2dc46b778b3e2_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 90,
+    "created_at": 1715464832,
+    "modified_at": 1715464832,
+    "ts": 1715464832,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464832836_9736c260f3f44f93b9e33e33d048f453_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464832836_9736c260f3f44f93b9e33e33d048f453_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 91,
+    "created_at": 1715464833,
+    "modified_at": 1715464833,
+    "ts": 1715464833,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464833141_997841e9621844d693665439ed9f5fbe_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464833141_997841e9621844d693665439ed9f5fbe_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 92,
+    "created_at": 1715464833,
+    "modified_at": 1715464833,
+    "ts": 1715464833,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464833423_57ef98a3d22640f2b971fba2ef788152_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464833423_57ef98a3d22640f2b971fba2ef788152_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 93,
+    "created_at": 1715464833,
+    "modified_at": 1715464833,
+    "ts": 1715464833,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715464833792_5c18828975d844ee9d24f8fb3714d71c_analyzed_road_frame.webp",
+    "full_frame_filename": "1715464833792_5c18828975d844ee9d24f8fb3714d71c_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 94,
+    "created_at": 1715465066,
+    "modified_at": 1715465066,
+    "ts": 1715465066,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465066837_93b569c6a350474f926ba36f79dc701e_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465066837_93b569c6a350474f926ba36f79dc701e_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 95,
+    "created_at": 1715465067,
+    "modified_at": 1715465067,
+    "ts": 1715465067,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465067254_03dd24edfbfe4ca6babd3d185a8e2745_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465067254_03dd24edfbfe4ca6babd3d185a8e2745_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 96,
+    "created_at": 1715465067,
+    "modified_at": 1715465067,
+    "ts": 1715465067,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465067356_d5db111a96a74503868a1f7e53e0bdc8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465067356_d5db111a96a74503868a1f7e53e0bdc8_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 97,
+    "created_at": 1715465067,
+    "modified_at": 1715465067,
+    "ts": 1715465067,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465067788_4be0f3485c314a22a4340ac61361281f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465067788_4be0f3485c314a22a4340ac61361281f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 98,
+    "created_at": 1715465071,
+    "modified_at": 1715465071,
+    "ts": 1715465070,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465070958_bd3b92e352604e51963a10dfe822cb97_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465070958_bd3b92e352604e51963a10dfe822cb97_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 99,
+    "created_at": 1715465071,
+    "modified_at": 1715465071,
+    "ts": 1715465071,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465071335_8fd9a0f192364408801387fbd9642477_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465071335_8fd9a0f192364408801387fbd9642477_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 100,
+    "created_at": 1715465152,
+    "modified_at": 1715465152,
+    "ts": 1715465152,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465152035_aa5072079fad4c7fadecfcb8206550a2_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465152035_aa5072079fad4c7fadecfcb8206550a2_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 101,
+    "created_at": 1715465152,
+    "modified_at": 1715465152,
+    "ts": 1715465152,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465152288_5a62353526c148aa9cb6253700799b38_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465152288_5a62353526c148aa9cb6253700799b38_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 102,
+    "created_at": 1715465325,
+    "modified_at": 1715465325,
+    "ts": 1715465325,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465325357_b7c293dbd8de460aa1a72cc147509e13_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465325357_b7c293dbd8de460aa1a72cc147509e13_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 103,
+    "created_at": 1715465325,
+    "modified_at": 1715465325,
+    "ts": 1715465325,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465325530_78b3e1e71d3c4681b7367b91b1cf35dd_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465325530_78b3e1e71d3c4681b7367b91b1cf35dd_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 104,
+    "created_at": 1715465326,
+    "modified_at": 1715465326,
+    "ts": 1715465326,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465326027_f52a803c0ed24875a7ac18d3b09ba518_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465326027_f52a803c0ed24875a7ac18d3b09ba518_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 105,
+    "created_at": 1715465326,
+    "modified_at": 1715465326,
+    "ts": 1715465326,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465326271_84c1c56b5a784f68954df95a5487280b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465326271_84c1c56b5a784f68954df95a5487280b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 106,
+    "created_at": 1715465407,
+    "modified_at": 1715465407,
+    "ts": 1715465406,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465406945_c2b666ae4c1445298e998d2072b09fab_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465406945_c2b666ae4c1445298e998d2072b09fab_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 107,
+    "created_at": 1715465407,
+    "modified_at": 1715465407,
+    "ts": 1715465407,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465407250_92c468f65592454fa6779cf2a72f9d67_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465407250_92c468f65592454fa6779cf2a72f9d67_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 108,
+    "created_at": 1715465411,
+    "modified_at": 1715465411,
+    "ts": 1715465411,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465411146_7d8a66853f6b4ea5a25976afc8091bc7_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465411146_7d8a66853f6b4ea5a25976afc8091bc7_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 109,
+    "created_at": 1715465411,
+    "modified_at": 1715465411,
+    "ts": 1715465411,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465411251_96d020672d8c44c399c11c1e67ed27d8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465411251_96d020672d8c44c399c11c1e67ed27d8_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 110,
+    "created_at": 1715465411,
+    "modified_at": 1715465411,
+    "ts": 1715465411,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465411601_61466c9fb93d42459b97ba7a4f12c646_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465411601_61466c9fb93d42459b97ba7a4f12c646_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 111,
+    "created_at": 1715465411,
+    "modified_at": 1715465411,
+    "ts": 1715465411,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465411747_5b17a89cbfb84d0a8d8086420b700c2d_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465411747_5b17a89cbfb84d0a8d8086420b700c2d_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 112,
+    "created_at": 1715465559,
+    "modified_at": 1715465559,
+    "ts": 1715465559,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465559823_8ccc0c42a5634c27ad54dbe3a206e978_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465559823_8ccc0c42a5634c27ad54dbe3a206e978_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 113,
+    "created_at": 1715465560,
+    "modified_at": 1715465560,
+    "ts": 1715465560,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465560204_02c6b206e34042ed8781c58916b40912_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465560204_02c6b206e34042ed8781c58916b40912_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 114,
+    "created_at": 1715465560,
+    "modified_at": 1715465560,
+    "ts": 1715465560,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465560320_de73849609a04fcc8604cd37af1483a7_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465560320_de73849609a04fcc8604cd37af1483a7_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 115,
+    "created_at": 1715465560,
+    "modified_at": 1715465560,
+    "ts": 1715465560,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465560668_1d5e273a0c4a4f81bbe2f36e3fb9c8b0_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465560668_1d5e273a0c4a4f81bbe2f36e3fb9c8b0_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 116,
+    "created_at": 1715465560,
+    "modified_at": 1715465560,
+    "ts": 1715465560,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465560740_67507be33b2940608ee5969f3f7b6b56_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465560740_67507be33b2940608ee5969f3f7b6b56_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 117,
+    "created_at": 1715465561,
+    "modified_at": 1715465561,
+    "ts": 1715465561,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465561096_e92bf42dcef94b71811c1effadf3d536_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465561096_e92bf42dcef94b71811c1effadf3d536_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 118,
+    "created_at": 1715465561,
+    "modified_at": 1715465561,
+    "ts": 1715465561,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465561268_67c436fac28644adadb16d19e9d3a4f4_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465561268_67c436fac28644adadb16d19e9d3a4f4_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 119,
+    "created_at": 1715465561,
+    "modified_at": 1715465561,
+    "ts": 1715465561,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465561740_37e98f070993410987a0470721fa1a24_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465561740_37e98f070993410987a0470721fa1a24_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 120,
+    "created_at": 1715465646,
+    "modified_at": 1715465646,
+    "ts": 1715465646,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465646636_285486f73cdc44d698859a99389f0cda_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465646636_285486f73cdc44d698859a99389f0cda_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 121,
+    "created_at": 1715465647,
+    "modified_at": 1715465647,
+    "ts": 1715465647,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465647024_8fa94302eea549b28c719a82ffa0b64b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465647024_8fa94302eea549b28c719a82ffa0b64b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 122,
+    "created_at": 1715465647,
+    "modified_at": 1715465647,
+    "ts": 1715465647,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465647109_4707d11f42674ae3ae467a895014a7ed_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465647109_4707d11f42674ae3ae467a895014a7ed_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 123,
+    "created_at": 1715465647,
+    "modified_at": 1715465647,
+    "ts": 1715465647,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465647526_bd1c73fc97864d508c6deca6a2d2b114_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465647526_bd1c73fc97864d508c6deca6a2d2b114_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 124,
+    "created_at": 1715465651,
+    "modified_at": 1715465651,
+    "ts": 1715465651,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465651725_f3e5596320cb4b1c997d093dcd9fd614_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465651725_f3e5596320cb4b1c997d093dcd9fd614_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 125,
+    "created_at": 1715465652,
+    "modified_at": 1715465652,
+    "ts": 1715465652,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465652257_758945079a6f4c60b7b0e9d28ff8bbb8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465652257_758945079a6f4c60b7b0e9d28ff8bbb8_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 126,
+    "created_at": 1715465652,
+    "modified_at": 1715465652,
+    "ts": 1715465652,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465652283_a4ed92347fd8439faf1a636e3d81709f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465652283_a4ed92347fd8439faf1a636e3d81709f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 127,
+    "created_at": 1715465653,
+    "modified_at": 1715465653,
+    "ts": 1715465652,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465652856_df8b2276f3a345c884464f85d6d75bd7_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465652856_df8b2276f3a345c884464f85d6d75bd7_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 128,
+    "created_at": 1715465762,
+    "modified_at": 1715465762,
+    "ts": 1715465762,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465762632_f7e1a7c262da4291a6db3e1e6532e0fa_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465762632_f7e1a7c262da4291a6db3e1e6532e0fa_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 129,
+    "created_at": 1715465763,
+    "modified_at": 1715465763,
+    "ts": 1715465762,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465762952_22af77f7f41a4f3083c849f5f83f3e43_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465762952_22af77f7f41a4f3083c849f5f83f3e43_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 130,
+    "created_at": 1715465768,
+    "modified_at": 1715465768,
+    "ts": 1715465768,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465768169_327b5e42ba9441b3a0b22066857fe8f5_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465768169_327b5e42ba9441b3a0b22066857fe8f5_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 131,
+    "created_at": 1715465768,
+    "modified_at": 1715465768,
+    "ts": 1715465768,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465768795_cdc19d7ed80c4d848e060f8e96a04576_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465768795_cdc19d7ed80c4d848e060f8e96a04576_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 132,
+    "created_at": 1715465769,
+    "modified_at": 1715465769,
+    "ts": 1715465768,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465768957_2f03477ef97d434993c41a6442bac38a_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465768957_2f03477ef97d434993c41a6442bac38a_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 133,
+    "created_at": 1715465769,
+    "modified_at": 1715465769,
+    "ts": 1715465769,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465769597_f5ae8a0ac91b4794ae02b515373c318f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465769597_f5ae8a0ac91b4794ae02b515373c318f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 134,
+    "created_at": 1715465769,
+    "modified_at": 1715465769,
+    "ts": 1715465769,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465769698_5d8f0ed3f79445ecb2a4d6d7c89c616b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465769698_5d8f0ed3f79445ecb2a4d6d7c89c616b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 135,
+    "created_at": 1715465770,
+    "modified_at": 1715465770,
+    "ts": 1715465770,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465770394_3f10ba372500446cb6140140f8a82893_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465770394_3f10ba372500446cb6140140f8a82893_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 136,
+    "created_at": 1715465915,
+    "modified_at": 1715465915,
+    "ts": 1715465915,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465915835_d257fbe6995b44f0a04e834aa70b3690_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465915835_d257fbe6995b44f0a04e834aa70b3690_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 137,
+    "created_at": 1715465916,
+    "modified_at": 1715465916,
+    "ts": 1715465916,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715465916088_579f56ec1721442b8d8e15eb35f7d9f0_analyzed_road_frame.webp",
+    "full_frame_filename": "1715465916088_579f56ec1721442b8d8e15eb35f7d9f0_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 138,
+    "created_at": 1715466146,
+    "modified_at": 1715466146,
+    "ts": 1715466145,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466145945_9cab23c2caaf4d3e933e658b4f0a9c41_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466145945_9cab23c2caaf4d3e933e658b4f0a9c41_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 139,
+    "created_at": 1715466146,
+    "modified_at": 1715466146,
+    "ts": 1715466146,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466146475_1cfe50bce34340e4a79f02228e290d98_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466146475_1cfe50bce34340e4a79f02228e290d98_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 140,
+    "created_at": 1715466242,
+    "modified_at": 1715466242,
+    "ts": 1715466242,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466242451_faed61df86854ce4976fc7a119eb1507_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466242451_faed61df86854ce4976fc7a119eb1507_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 141,
+    "created_at": 1715466242,
+    "modified_at": 1715466242,
+    "ts": 1715466242,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466242685_ee246dc1b2dc4fff8d6283a6e2fdb501_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466242685_ee246dc1b2dc4fff8d6283a6e2fdb501_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 142,
+    "created_at": 1715466251,
+    "modified_at": 1715466251,
+    "ts": 1715466251,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466251507_af1b2ae6ac1149cc94e4995c8680d3ba_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466251507_af1b2ae6ac1149cc94e4995c8680d3ba_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 143,
+    "created_at": 1715466251,
+    "modified_at": 1715466251,
+    "ts": 1715466251,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466251546_e66b85f01bdd4af4b3e3d83970d76f39_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466251546_e66b85f01bdd4af4b3e3d83970d76f39_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 144,
+    "created_at": 1715466409,
+    "modified_at": 1715466409,
+    "ts": 1715466409,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466409590_b73abdc208c34d55b3e65fce0de10bab_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466409590_b73abdc208c34d55b3e65fce0de10bab_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 145,
+    "created_at": 1715466410,
+    "modified_at": 1715466410,
+    "ts": 1715466410,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466410161_79f50b49dc3b4270b0af56fc14b42cb5_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466410161_79f50b49dc3b4270b0af56fc14b42cb5_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 146,
+    "created_at": 1715466414,
+    "modified_at": 1715466414,
+    "ts": 1715466414,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466414359_c20b9e7bde5d4b77909c5c8ad51b87af_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466414359_c20b9e7bde5d4b77909c5c8ad51b87af_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 147,
+    "created_at": 1715466414,
+    "modified_at": 1715466414,
+    "ts": 1715466414,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466414809_7192ffcd4ac04188a080e2d095a7abb9_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466414809_7192ffcd4ac04188a080e2d095a7abb9_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 148,
+    "created_at": 1715466506,
+    "modified_at": 1715466506,
+    "ts": 1715466505,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466505886_6db47b9f2e484125a08d18a40979bf8e_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466505886_6db47b9f2e484125a08d18a40979bf8e_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 149,
+    "created_at": 1715466506,
+    "modified_at": 1715466506,
+    "ts": 1715466506,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466506064_21b83174a17f46499707511fdf1dae5f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466506064_21b83174a17f46499707511fdf1dae5f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 150,
+    "created_at": 1715466506,
+    "modified_at": 1715466506,
+    "ts": 1715466506,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466506484_9f4fd549f60249ffaa653a4baaaf524c_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466506484_9f4fd549f60249ffaa653a4baaaf524c_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 151,
+    "created_at": 1715466506,
+    "modified_at": 1715466506,
+    "ts": 1715466506,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466506732_182271a1be6e430e95eabaf1f43ae49d_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466506732_182271a1be6e430e95eabaf1f43ae49d_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 152,
+    "created_at": 1715466507,
+    "modified_at": 1715466507,
+    "ts": 1715466506,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466506950_28836db0d328409da7ef6301914c2389_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466506950_28836db0d328409da7ef6301914c2389_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 153,
+    "created_at": 1715466507,
+    "modified_at": 1715466507,
+    "ts": 1715466507,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466507242_de012bcec66b4fd487d3369899be1c96_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466507242_de012bcec66b4fd487d3369899be1c96_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 154,
+    "created_at": 1715466507,
+    "modified_at": 1715466507,
+    "ts": 1715466507,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466507311_07ef4812bb5147dcb8360d2be4a28da3_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466507311_07ef4812bb5147dcb8360d2be4a28da3_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 155,
+    "created_at": 1715466507,
+    "modified_at": 1715466507,
+    "ts": 1715466507,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466507645_2ac6677f7e2f4585a6d2d6e9494e5100_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466507645_2ac6677f7e2f4585a6d2d6e9494e5100_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 156,
+    "created_at": 1715466507,
+    "modified_at": 1715466507,
+    "ts": 1715466507,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466507694_75c4ab50507f476eab7f5f3b3cd3e99a_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466507694_75c4ab50507f476eab7f5f3b3cd3e99a_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 157,
+    "created_at": 1715466508,
+    "modified_at": 1715466508,
+    "ts": 1715466508,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466508065_e5e9c8995eda4a889172f91cd32c8fb6_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466508065_e5e9c8995eda4a889172f91cd32c8fb6_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 158,
+    "created_at": 1715466508,
+    "modified_at": 1715466508,
+    "ts": 1715466508,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466508111_1ba0de7442764dbab3f3b0f89461f7c6_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466508111_1ba0de7442764dbab3f3b0f89461f7c6_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 159,
+    "created_at": 1715466508,
+    "modified_at": 1715466508,
+    "ts": 1715466508,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466508521_855f6aa9efb74d5697ae702ebd4d78ed_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466508521_855f6aa9efb74d5697ae702ebd4d78ed_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 160,
+    "created_at": 1715466508,
+    "modified_at": 1715466508,
+    "ts": 1715466508,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466508542_ef853ea3f8114ddba0c5faa5c02be202_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466508542_ef853ea3f8114ddba0c5faa5c02be202_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 161,
+    "created_at": 1715466509,
+    "modified_at": 1715466509,
+    "ts": 1715466509,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466509004_d232135b52fe46b299affc53c65095ae_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466509004_d232135b52fe46b299affc53c65095ae_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 162,
+    "created_at": 1715466509,
+    "modified_at": 1715466509,
+    "ts": 1715466509,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466509016_73bbdb0c83c244c79f363cb99e020ff9_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466509016_73bbdb0c83c244c79f363cb99e020ff9_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 163,
+    "created_at": 1715466509,
+    "modified_at": 1715466509,
+    "ts": 1715466509,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466509499_91db8716cd1f433c872e75c7caa3d734_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466509499_91db8716cd1f433c872e75c7caa3d734_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 164,
+    "created_at": 1715466588,
+    "modified_at": 1715466588,
+    "ts": 1715466588,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466588001_374d60f20ba3466297da4ecc2fbf7546_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466588001_374d60f20ba3466297da4ecc2fbf7546_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 165,
+    "created_at": 1715466589,
+    "modified_at": 1715466589,
+    "ts": 1715466588,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466588886_39dde99c770749aba9cf3b7c086cd9f1_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466588886_39dde99c770749aba9cf3b7c086cd9f1_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 166,
+    "created_at": 1715466741,
+    "modified_at": 1715466741,
+    "ts": 1715466740,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466740893_3bfdd933e7124dc68c0d728ffcd29939_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466740893_3bfdd933e7124dc68c0d728ffcd29939_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 167,
+    "created_at": 1715466741,
+    "modified_at": 1715466741,
+    "ts": 1715466741,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466741028_03514468446243d89eb1275a00b7a72a_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466741028_03514468446243d89eb1275a00b7a72a_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 168,
+    "created_at": 1715466750,
+    "modified_at": 1715466750,
+    "ts": 1715466750,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466750273_02ac0533be4143dca27fdac0ca9d9b97_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466750273_02ac0533be4143dca27fdac0ca9d9b97_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 169,
+    "created_at": 1715466750,
+    "modified_at": 1715466750,
+    "ts": 1715466750,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466750328_f936898a59c1436cbdecb2c417192c82_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466750328_f936898a59c1436cbdecb2c417192c82_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 170,
+    "created_at": 1715466760,
+    "modified_at": 1715466760,
+    "ts": 1715466760,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466760761_4b01b8b6d8f04143b3d6b333bc92bf25_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466760761_4b01b8b6d8f04143b3d6b333bc92bf25_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 171,
+    "created_at": 1715466761,
+    "modified_at": 1715466761,
+    "ts": 1715466760,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466760877_4af642231682475fab610e4df451f3e8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466760877_4af642231682475fab610e4df451f3e8_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 172,
+    "created_at": 1715466761,
+    "modified_at": 1715466761,
+    "ts": 1715466761,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466761439_e6c2f51be54a4f5296d24bea3f4b3193_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466761439_e6c2f51be54a4f5296d24bea3f4b3193_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 173,
+    "created_at": 1715466761,
+    "modified_at": 1715466761,
+    "ts": 1715466761,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466761573_c5065bfb52b64502b0d0d1314980cc26_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466761573_c5065bfb52b64502b0d0d1314980cc26_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 174,
+    "created_at": 1715466762,
+    "modified_at": 1715466762,
+    "ts": 1715466762,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466762595_072a57637cfd48c692151ebf8949b828_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466762595_072a57637cfd48c692151ebf8949b828_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 175,
+    "created_at": 1715466762,
+    "modified_at": 1715466762,
+    "ts": 1715466762,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466762812_1f756d2762324be494c3eba605898b9c_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466762812_1f756d2762324be494c3eba605898b9c_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 176,
+    "created_at": 1715467000,
+    "modified_at": 1715467000,
+    "ts": 1715466999,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466999890_9943e22f5dd24715b64c1e21943f50ac_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466999890_9943e22f5dd24715b64c1e21943f50ac_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 177,
+    "created_at": 1715467000,
+    "modified_at": 1715467000,
+    "ts": 1715466999,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715466999895_42a86c503544463cac7c8f039b70d1fd_analyzed_road_frame.webp",
+    "full_frame_filename": "1715466999895_42a86c503544463cac7c8f039b70d1fd_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 178,
+    "created_at": 1715467001,
+    "modified_at": 1715467001,
+    "ts": 1715467001,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467001613_ca2784995d2e40ef8e53cb82ebe92701_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467001613_ca2784995d2e40ef8e53cb82ebe92701_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 179,
+    "created_at": 1715467001,
+    "modified_at": 1715467001,
+    "ts": 1715467001,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467001732_29ef9a9861284b10a5ec90742b240456_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467001732_29ef9a9861284b10a5ec90742b240456_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 180,
+    "created_at": 1715467002,
+    "modified_at": 1715467002,
+    "ts": 1715467002,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467002016_6713cdfe247f4e268f7ae4ec3d069568_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467002016_6713cdfe247f4e268f7ae4ec3d069568_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 181,
+    "created_at": 1715467002,
+    "modified_at": 1715467002,
+    "ts": 1715467002,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467002132_9d48a8bc0a8a4fb8976afc4364a79740_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467002132_9d48a8bc0a8a4fb8976afc4364a79740_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 182,
+    "created_at": 1715467082,
+    "modified_at": 1715467082,
+    "ts": 1715467082,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467082576_0ec6397a07ee4e55974ee18df48a3a6d_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467082576_0ec6397a07ee4e55974ee18df48a3a6d_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 183,
+    "created_at": 1715467082,
+    "modified_at": 1715467082,
+    "ts": 1715467082,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467082724_cc3865762c684f04b98040b4feff383b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467082724_cc3865762c684f04b98040b4feff383b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 184,
+    "created_at": 1715467522,
+    "modified_at": 1715467522,
+    "ts": 1715467522,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467522395_ac82a7f7f5ed427483e711326689b7ef_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467522395_ac82a7f7f5ed427483e711326689b7ef_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 185,
+    "created_at": 1715467522,
+    "modified_at": 1715467522,
+    "ts": 1715467522,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467522801_108eaf0bb497426ab0dec036bf77c02b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467522801_108eaf0bb497426ab0dec036bf77c02b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 186,
+    "created_at": 1715467526,
+    "modified_at": 1715467526,
+    "ts": 1715467525,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467525888_2309587aedb746289fd30412426bbff0_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467525888_2309587aedb746289fd30412426bbff0_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 187,
+    "created_at": 1715467924,
+    "modified_at": 1715467924,
+    "ts": 1715467924,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715467924611_377dac9826ee48d5bc1b017dcf02df0e_analyzed_road_frame.webp",
+    "full_frame_filename": "1715467924611_377dac9826ee48d5bc1b017dcf02df0e_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 188,
+    "created_at": 1715468677,
+    "modified_at": 1715468677,
+    "ts": 1715468677,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468677275_f842016c7bfa416fa3bc2ee76865ebb3_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468677275_f842016c7bfa416fa3bc2ee76865ebb3_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 189,
+    "created_at": 1715468677,
+    "modified_at": 1715468677,
+    "ts": 1715468677,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468677647_705efb743e934ab2b01b65628046edcb_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468677647_705efb743e934ab2b01b65628046edcb_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 190,
+    "created_at": 1715468682,
+    "modified_at": 1715468682,
+    "ts": 1715468682,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468682704_b9e94aaa5fb54b4b86d5e87ddca7ad2f_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468682704_b9e94aaa5fb54b4b86d5e87ddca7ad2f_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 191,
+    "created_at": 1715468683,
+    "modified_at": 1715468683,
+    "ts": 1715468683,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468683421_84e3739ab10a4b1da0ede3c33f5c4d77_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468683421_84e3739ab10a4b1da0ede3c33f5c4d77_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 192,
+    "created_at": 1715468684,
+    "modified_at": 1715468684,
+    "ts": 1715468684,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468684022_5d4a22acde5944adbec19a0d14f62c77_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468684022_5d4a22acde5944adbec19a0d14f62c77_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 193,
+    "created_at": 1715468688,
+    "modified_at": 1715468688,
+    "ts": 1715468688,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468688135_f1ef275c106d4aeea6b840bdfdc0b0f1_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468688135_f1ef275c106d4aeea6b840bdfdc0b0f1_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 194,
+    "created_at": 1715468689,
+    "modified_at": 1715468689,
+    "ts": 1715468689,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468689081_4d5d81e42046497fb3061eb3c69d921b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468689081_4d5d81e42046497fb3061eb3c69d921b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 195,
+    "created_at": 1715468851,
+    "modified_at": 1715468851,
+    "ts": 1715468850,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468850989_b878524f41fb463085af923395ff94c8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468850989_b878524f41fb463085af923395ff94c8_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 196,
+    "created_at": 1715468932,
+    "modified_at": 1715468932,
+    "ts": 1715468931,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468931980_b05fe34c30cf4e708255582c2a312cc7_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468931980_b05fe34c30cf4e708255582c2a312cc7_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 197,
+    "created_at": 1715468932,
+    "modified_at": 1715468932,
+    "ts": 1715468932,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715468932648_d6b2855ce5a34b918af893621e5bc22b_analyzed_road_frame.webp",
+    "full_frame_filename": "1715468932648_d6b2855ce5a34b918af893621e5bc22b_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 198,
+    "created_at": 1715469100,
+    "modified_at": 1715469100,
+    "ts": 1715469100,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715469100594_ab970777bcc74e81b914aea13536d625_analyzed_road_frame.webp",
+    "full_frame_filename": "1715469100594_ab970777bcc74e81b914aea13536d625_analyzed_road_full_frame.webp"
+    },
+    {
+    "id": 199,
+    "created_at": 1715469269,
+    "modified_at": 1715469269,
+    "ts": 1715469269,
+    "is_red_traffic_light_detected": true,
+    "road_frame_filename": "1715469269213_8e4842a6b95e4a539f647e0be75c4de8_analyzed_road_frame.webp",
+    "full_frame_filename": "1715469269213_8e4842a6b95e4a539f647e0be75c4de8_analyzed_road_full_frame.webp"
+    }
+]
