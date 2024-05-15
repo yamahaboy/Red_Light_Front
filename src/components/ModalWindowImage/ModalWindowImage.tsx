@@ -19,10 +19,11 @@ const ModalWindowImage: React.FC<ModalImageProps> = (props) => {
         alt={alt}
         onClick={toggleModal}
         style={{
-          width: '100px',
-          height: '100px',
+          width: '70px',
+          height: '70px',
           borderRadius: '10px',
           cursor: 'pointer',
+          objectFit: "cover"
         }}
       />
       <Modal
@@ -66,7 +67,7 @@ const ModalWindowImage: React.FC<ModalImageProps> = (props) => {
               height: 'auto',
               display: 'block',
               borderRadius: '10px',
-              objectFit: "scale-down"
+              objectFit: "contain"
             }}
           />
         </Box>

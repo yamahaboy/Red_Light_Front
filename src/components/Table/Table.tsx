@@ -4,7 +4,8 @@ import {
   getInfringementsDatesToStore,
   setPaginationData,
 } from "../../store/reducers/infringementsReducer/actions";
-import testImg from "../../assets/images/1715384572756_88d0b3e5fc0f469d9dc0c1ed277850aa_analyzed_road_full_frame.webp";
+import FullImg from "../../assets/images/1715384572756_88d0b3e5fc0f469d9dc0c1ed277850aa_analyzed_road_full_frame.webp";
+import RoadImg from "../../assets/images/1715384572756_88d0b3e5fc0f469d9dc0c1ed277850aa_analyzed_road_frame.webp";
 import {
   Table as MuiTable,
   TableBody,
@@ -61,9 +62,10 @@ const Table: React.FC = () => {
   return (
     <Container
       sx={{
-        height: "auto",
         display: "flex",
         flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center", 
         maxWidth: "100%",
         padding: 0,
         marginTop: 4,
@@ -86,47 +88,35 @@ const Table: React.FC = () => {
             }}
           >
             <TableRow>
-              <TableCell sx={{fontWeight:"bold"}}>ID</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Road Frame</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Full Frame</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Created At</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Modified At</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Reported At</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Red Light Detected</TableCell>
+              <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>ID</TableCell>
+              <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>Created At</TableCell>
+              <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>Modified At</TableCell>
+              <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>Reported At</TableCell>
+              <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>Red Light Detected</TableCell>
+              <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>Detection Zone Frame</TableCell>
+              <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>Full Frame</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
             {dateList.map((infringement: InfringementsProps) => (
               <TableRow key={infringement.id}>
-                <TableCell sx={{fontWeight:"bold"}}>{infringement.id}</TableCell>
-                <TableCell>
-                  <ModalWindowImage
-                    src={`${testImg}`}
-                    alt={`Road Frame ${infringement.id}`}
-                  />
-                </TableCell>
-                <TableCell>
-                <ModalWindowImage
-                    src={`${testImg}`}
-                    alt={`Full Frame ${infringement.id}`}
-                  />
-                </TableCell>
-                <TableCell>
+                <TableCell sx={{ fontWeight: "bold", textAlign: "center" }}>{infringement.id}</TableCell>
+                <TableCell sx={{ textAlign: "center" }}>
                   <Typography variant="subtitle2">
                     {formatDate(infringement.created_at)}
                   </Typography>
                 </TableCell>
-                <TableCell>
+                <TableCell sx={{ textAlign: "center" }}>
                   <Typography variant="subtitle2">
                     {formatDate(infringement.modified_at)}
                   </Typography>
                 </TableCell>
-                <TableCell>
+                <TableCell sx={{ textAlign: "center" }}>
                   <Typography variant="subtitle2">
                     {formatDate(infringement.ts)}
                   </Typography>
                 </TableCell>
-                <TableCell>
+                <TableCell sx={{ textAlign: "center" }}>
                   <Chip
                     label={
                       infringement.is_red_traffic_light_detected ? "Yes" : "No"
@@ -141,6 +131,18 @@ const Table: React.FC = () => {
                       height: "50px",
                       borderRadius: "50%",
                     }}
+                  />
+                </TableCell>
+                <TableCell sx={{ textAlign: "center" }}>
+                  <ModalWindowImage
+                    src={`${RoadImg}`}
+                    alt={`Road Frame ${infringement.id}`}
+                  />
+                </TableCell>
+                <TableCell sx={{ textAlign: "center" }}>
+                  <ModalWindowImage
+                    src={`${FullImg}`}
+                    alt={`Full Frame ${infringement.id}`}
                   />
                 </TableCell>
               </TableRow>
