@@ -12,5 +12,5 @@ export type InfringementsProps = {
 
 export type InfringementsPropsResponse = {
     data: InfringementsProps[],
-    count: number
+    totalCount: number
 }

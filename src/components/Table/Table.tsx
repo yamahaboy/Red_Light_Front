@@ -4,8 +4,6 @@ import {
   getInfringementsDatesToStore,
   setPaginationData,
 } from "../../store/reducers/infringementsReducer/actions";
-import FullImg from "../../assets/images/1715384572756_88d0b3e5fc0f469d9dc0c1ed277850aa_analyzed_road_full_frame.webp";
-import RoadImg from "../../assets/images/1715384572756_88d0b3e5fc0f469d9dc0c1ed277850aa_analyzed_road_frame.webp";
 import {
   Table as MuiTable,
   TableBody,
@@ -135,13 +133,13 @@ const Table: React.FC = () => {
                 </TableCell>
                 <TableCell sx={{ textAlign: "center" }}>
                   <ModalWindowImage
-                    src={`${RoadImg}`}
+                    src={`${import.meta.env.VITE_REACT_APP_BACKEND_URL}/image/${infringement.road_frame_filename}`}
                     alt={`Road Frame ${infringement.id}`}
                   />
                 </TableCell>
                 <TableCell sx={{ textAlign: "center" }}>
                   <ModalWindowImage
-                    src={`${FullImg}`}
+                    src={`${import.meta.env.VITE_REACT_APP_BACKEND_URL}/image/${infringement.full_frame_filename}`}
                     alt={`Full Frame ${infringement.id}`}
                   />
                 </TableCell>

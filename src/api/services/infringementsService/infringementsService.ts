@@ -16,7 +16,7 @@ export const fetchIncidents = async (limit: number, offset: number): Promise<Inf
     
     return {
       data: incidents,
-      count: responseData.meta.count,
+      totalCount: responseData.totalCount,
     };
   } catch (error: any) {
     console.error(`Failed to fetch incidents: ${error.message}`);
