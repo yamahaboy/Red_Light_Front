@@ -5,6 +5,7 @@ import { AnyAction } from "../../../models/IReduxProps";
 import {
   fetchIncidents,
 } from "../../../api/services/infringementsService/infringementsService";
+import { store } from "../../store";
 // import dataSample from "../../../assets/data/response_1715794297386.json"; //delete json local file and import
 
 export const getInfringementsDates = (dates: InfringementsProps[]) => {
@@ -21,8 +22,11 @@ export const setPaginationData = (
     payload: { count, currentPage, limit },
   };
 };
-export const getInfringementsDatesToStore = (limit: number, offset: number) => {
+export const getInfringementsDatesToStore = () => {
     return async (dispatch: Dispatch<AnyAction>) => {
+      const { limit, currentPage } = store.getState().infringementsReducer
+      const offset = (currentPage - 1) * limit;
+
       try {
         const response: InfringementsPropsResponse = await fetchIncidents(limit, offset);
         const { totalCount, data } = response;

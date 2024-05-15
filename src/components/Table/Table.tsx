@@ -27,10 +27,10 @@ const Table: React.FC = () => {
   const dispatch = useAppDispatch();
   const [rowsPerPage, setRowsPerPage] = useState<number>(limit);
 
-  const handleChangePage = async (_event: unknown, newPage: number) => {
-    const offset = newPage * rowsPerPage;
-    await dispatch(setPaginationData(count, newPage + 1, rowsPerPage));
-    await dispatch(getInfringementsDatesToStore(rowsPerPage, offset));
+  const handleChangePage = (_event: unknown, newPage: number) => {
+    // const offset = newPage * rowsPerPage;
+    dispatch(setPaginationData(count, newPage + 1, rowsPerPage));
+    dispatch(getInfringementsDatesToStore());
   };
 
   const handleChangeRowsPerPage = async (
@@ -39,7 +39,7 @@ const Table: React.FC = () => {
     const newRowsPerPage = parseInt(event.target.value, 10);
     setRowsPerPage(newRowsPerPage);
     await dispatch(setPaginationData(count, 1, newRowsPerPage));
-    await dispatch(getInfringementsDatesToStore(newRowsPerPage, 0));
+    await dispatch(getInfringementsDatesToStore());
   };
 
   const formatDate = (timestamp: number) => {
@@ -54,9 +54,8 @@ const Table: React.FC = () => {
   };
 
   useEffect(() => {
-    const offset = (currentPage - 1) * limit;
-    dispatch(getInfringementsDatesToStore(limit, offset));
-  }, [dispatch, limit, currentPage]);
+    dispatch(getInfringementsDatesToStore());
+  }, [dispatch]);
   return (
     <Container
       sx={{
