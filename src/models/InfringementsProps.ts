@@ -9,3 +9,8 @@ export type InfringementsProps = {
     road_frame_blob?: Blob; 
     full_frame_blob?: Blob;
 }
+
+export type InfringementsPropsResponse = {
+    data: InfringementsProps[],
+    count: number
+}
