@@ -36,8 +36,8 @@ const ModalWindowImage: React.FC<ModalImageProps> = (props) => {
         <Box
           sx={{
             position: 'relative',
-            width: '90%',
-            maxWidth: '90%',
+            width: '70%',
+            maxWidth: '70%',
             bgcolor: 'background.paper',
             boxShadow: 24,
             p: 0,
@@ -54,7 +54,10 @@ const ModalWindowImage: React.FC<ModalImageProps> = (props) => {
               top: 8,
               color: "#000",
               zIndex: 1,
-              fontSize: "24px"
+              fontSize: "24px",
+              '&:hover' : {
+                backgroundColor:"#fff"
+              }
             }}
           >
             <CloseIcon />
