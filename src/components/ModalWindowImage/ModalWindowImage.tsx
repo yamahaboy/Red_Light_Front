@@ -66,6 +66,7 @@ const ModalWindowImage: React.FC<ModalImageProps> = (props) => {
               height: 'auto',
               display: 'block',
               borderRadius: '10px',
+              objectFit: "scale-down"
             }}
           />
         </Box>

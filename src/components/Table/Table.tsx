@@ -91,8 +91,8 @@ const Table: React.FC = () => {
               <TableCell sx={{fontWeight:"bold"}}>Full Frame</TableCell>
               <TableCell sx={{fontWeight:"bold"}}>Created At</TableCell>
               <TableCell sx={{fontWeight:"bold"}}>Modified At</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Timestamp</TableCell>
-              <TableCell sx={{fontWeight:"bold"}}>Red Light</TableCell>
+              <TableCell sx={{fontWeight:"bold"}}>Reported At</TableCell>
+              <TableCell sx={{fontWeight:"bold"}}>Red Light Detected</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
