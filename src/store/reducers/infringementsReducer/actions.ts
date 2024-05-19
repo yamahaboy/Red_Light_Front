@@ -6,7 +6,7 @@ import {
   fetchIncidents,
 } from "../../../api/services/infringementsService/infringementsService";
 import { store } from "../../store";
-// import dataSample from "../../../assets/data/response_1715794297386.json"; //delete json local file and import
+import dataSample from "../../../assets/data/response_1715794297386.json"; //delete json local file and import
 
 export const getInfringementsDates = (dates: InfringementsProps[]) => {
   return { type: InfringementsEnum.GET_INFRINGEMENTS_DATES, payload: dates };
@@ -43,7 +43,7 @@ export const getInfringementsDatesToStore = () => {
 //     return async (dispatch: Dispatch<AnyAction>) => {
 //       try {
 //         const totalDataCount = dataSample.data.length;
-//         const dataSampleLimited = dataSample.data.slice(offset, offset + limit);
+//         const dataSampleLimited = dataSample.data.slice();
 //         dispatch(getInfringementsDates(dataSampleLimited));
 //         dispatch(setPaginationData(totalDataCount, offset / limit + 1, limit));
 //       } catch (error) {
