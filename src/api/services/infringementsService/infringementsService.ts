@@ -1,4 +1,4 @@
-import { InfringementsProps, InfringementsPropsResponse } from "../../../models/InfringementsProps";
+import { InfringementsProps, InfringementsPropsResponse, PartialInfringementsProps } from "../../../models/InfringementsProps";
 
 export const fetchIncidents = async (limit: number, offset: number): Promise<InfringementsPropsResponse> => {
   try {
@@ -40,6 +40,30 @@ export const fetchIncidents = async (limit: number, offset: number): Promise<Inf
       return blob;
     } catch (error:any) {
       console.error(`Failed to fetch image: ${error.message}`);
+      throw error;
+    }
+  };
+
+  export const fetchPartialIncidents = async (): Promise<PartialInfringementsProps[]> => {
+    try {
+      const response = await fetch(`${import.meta.env.VITE_REACT_APP_BACKEND_URL}/api/incident/`, {
+        headers: {
+          'Accept': 'application/json',
+        },
+      });
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+  
+      const responseData = await response.json();
+      const incidents = responseData.data.map((incident: PartialInfringementsProps) => ({
+        id: incident.id,
+        ts: incident.ts,
+      }));
+  
+      return incidents;
+    } catch (error: any) {
+      console.error(`Failed to fetch incidents: ${error.message}`);
       throw error;
     }
   };

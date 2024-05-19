@@ -20,7 +20,7 @@ import {
 } from "@mui/material";
 import { InfringementsProps } from "../../models/InfringementsProps";
 import ModalWindowImage from "../ModalWindowImage/ModalWindowImage";
-import InfringementsChart, { InfringementData } from "../InfringementsChart/InfringementsChart";
+import InfringementsChart from "../InfringementsChart/InfringementsChart";
 
 const Table: React.FC = () => {
   const { dateList, count, limit, currentPage } = useAppSelector(
@@ -28,7 +28,6 @@ const Table: React.FC = () => {
   );
   const dispatch = useAppDispatch();
   const [rowsPerPage, setRowsPerPage] = useState<number>(limit);
-  const [chartData, setChartData] = useState<InfringementData[]>([]);
 
  
   const formatDate = (timestamp: number) => {
@@ -60,12 +59,7 @@ const Table: React.FC = () => {
     dispatch(getInfringementsDatesToStore());
   }, [dispatch]);
 
-  useEffect(() => {
-    const dates = dateList.map(infringement => ({
-      ts: infringement.ts
-    }));
-    setChartData((dates));
-  }, [dateList]);
+
 
   return (
     <Container
@@ -80,7 +74,7 @@ const Table: React.FC = () => {
         marginTop: 4,
       }}
     >
-      <InfringementsChart data={chartData} />
+      <InfringementsChart />
       <Box>
         <TableContainer
           component={Paper}

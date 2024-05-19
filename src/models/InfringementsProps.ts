@@ -14,3 +14,8 @@ export type InfringementsPropsResponse = {
     data: InfringementsProps[],
     totalCount: number
 }
+
+export type PartialInfringementsProps = {
+    id: number;
+    ts: number;
+  }

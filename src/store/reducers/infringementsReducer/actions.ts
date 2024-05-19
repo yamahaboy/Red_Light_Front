@@ -1,9 +1,10 @@
 import { Dispatch } from "redux";
-import { InfringementsProps, InfringementsPropsResponse } from "../../../models/InfringementsProps";
+import { InfringementsProps, InfringementsPropsResponse, PartialInfringementsProps } from "../../../models/InfringementsProps";
 import { InfringementsEnum } from "./actionType";
 import { AnyAction } from "../../../models/IReduxProps";
 import {
   fetchIncidents,
+  fetchPartialIncidents,
 } from "../../../api/services/infringementsService/infringementsService";
 import { store } from "../../store";
 import dataSample from "../../../assets/data/response_1715794297386.json"; //delete json local file and import
@@ -11,6 +12,11 @@ import dataSample from "../../../assets/data/response_1715794297386.json"; //del
 export const getInfringementsDates = (dates: InfringementsProps[]) => {
   return { type: InfringementsEnum.GET_INFRINGEMENTS_DATES, payload: dates };
 };
+
+export const getInfringementsDatesForGraph = (dates: PartialInfringementsProps[]) => {
+  return { type: InfringementsEnum.GET_INFRINGEMENTS_DATES_FOR_GRAPH, payload: dates };
+};
+
 
 export const setPaginationData = (
   count: number,
@@ -37,6 +43,19 @@ export const getInfringementsDatesToStore = () => {
         console.error("Failed to fetch incidents or images:", error);
       }
     };
+};
+
+export const getInfringementsDatesToStoreForGraph = () => {
+  return async (dispatch: Dispatch<AnyAction>) => {
+
+    try {
+      const response: PartialInfringementsProps[] = await fetchPartialIncidents();
+
+      dispatch(getInfringementsDatesForGraph(response));
+    } catch (error) {
+      console.error("Failed to fetch incidents for graph:", error);
+    }
+  };
 };
 
 // export const getInfringementsDatesToStore = (limit: number, offset: number) => {
